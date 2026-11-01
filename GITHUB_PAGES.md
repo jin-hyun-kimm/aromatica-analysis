@@ -5,7 +5,7 @@
 ## 1. 저장소 만들기
 
 GitHub에서 **public** 저장소를 새로 만듭니다. (교수님이 GitHub 계정 없이 열 수 있어야 하므로 public이어야 합니다.)
-저장소 이름 예: `aromatica-midterm`
+저장소 이름 예: `aromatica-analysis`
 
 ## 2. 올리기
 
@@ -15,7 +15,7 @@ git init
 git add .
 git commit -m "아로마티카 현황분석 — 데이터·코드·대시보드"
 git branch -M main
-git remote add origin https://github.com/<아이디>/aromatica-midterm.git
+git remote add origin https://github.com/<아이디>/aromatica-analysis.git
 git push -u origin main
 ```
 
@@ -27,7 +27,7 @@ Source를 **Deploy from a branch**, Branch를 **main / (root)** 로 두고 저�
 1~2분 뒤 다음 주소에서 열립니다.
 
 ```
-https://<아이디>.github.io/aromatica-midterm/
+https://<아이디>.github.io/aromatica-analysis/
 ```
 
 ## 4. 제출
