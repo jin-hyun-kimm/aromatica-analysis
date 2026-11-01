@@ -1,0 +1,6 @@
+year,item,value_krw,cash_flow_type,source_unit
+2023,이자비용,2233182000,cash,thousand_krw
+2023,파생상품평가손실,3706764000,non_cash,thousand_krw
+2023,손상차손,3000000000,non_cash,thousand_krw
+2024,이자비용,599122000,cash,thousand_krw
+2024,당기손익공정가치측정금융자산처분손실,59000,cash,thousand_krw

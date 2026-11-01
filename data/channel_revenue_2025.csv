@@ -1,0 +1,17 @@
+region,channel_type,channel_name,revenue_million_krw,share_pct,source_unit
+미주,온라인,Amazon,4026,7.9,million_krw
+미주,리테일,COSTCO 등,400,0.8,million_krw
+일본,온라인,"Qoo10, Rakuten, Amazon",3550,6.9,million_krw
+일본,리테일,"돈키호테, LOFT 등",624,1.2,million_krw
+유럽,온라인,Amazon,1098,2.1,million_krw
+유럽,리테일,Rossmann 등,754,1.5,million_krw
+아시아,리테일,SEPHORA 등,2050,4.0,million_krw
+중동,리테일,X BEAUTY 등,148,0.3,million_krw
+글로벌 B2B,리테일,"실리콘투, 예스아시아 등",1950,3.8,million_krw
+글로벌,자체채널,글로벌몰,10,0.0,million_krw
+기타,리테일,기타국가 및 면세 채널,1150,2.2,million_krw
+한국,자체채널,"자사몰, 플래그십 스토어",4454,8.7,million_krw
+한국,리테일,"올리브영, COSTCO, 국군복지단 등",9556,18.7,million_krw
+한국,온라인,"카카오, 네이버 등",16577,32.4,million_krw
+한국,홈쇼핑,"롯데, CJ 등",3276,6.4,million_krw
+한국,기타채널,기타,1564,3.1,million_krw
